@@ -1,4 +1,4 @@
-# React & Express SSE Example 🚀
+# React & Express SSE Example 🚀🔥
 
 This is a simple example of how to use Server Sent Events with React and Express.
 
